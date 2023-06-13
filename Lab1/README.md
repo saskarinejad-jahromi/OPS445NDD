@@ -1,1 +1,2 @@
-Lab 1 repository
+
+# Lab 1 repository
