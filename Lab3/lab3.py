@@ -7,3 +7,7 @@ def write_name_file():
 
 write_name_file()
 
+def helloWorld():
+    print('Hello World')
+
+helloWorld()

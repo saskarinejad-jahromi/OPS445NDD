@@ -7,3 +7,8 @@ def print_arguments():
     print("Script name with variables:", script_name, variables)
 
 print_arguments()
+
+def helloWorld():
+    print('Hello World')
+
+helloWorld()
