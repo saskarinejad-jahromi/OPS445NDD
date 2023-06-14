@@ -1,6 +1,6 @@
 def calculate_age():
     birth_year = int(input("Enter your birth year: "))
-    current_year = 2023  # Replace this with the current year if you're not using a fixed value
+    current_year = 2023 
     age = current_year - birth_year
     print("Your age is:", age)
 
